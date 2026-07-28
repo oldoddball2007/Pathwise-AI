@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pathwise-ai.example/sitemap.xml
